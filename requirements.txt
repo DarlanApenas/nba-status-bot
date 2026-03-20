@@ -4,3 +4,4 @@ requests
 nba_api
 pandas
 pillow
+cairosvg
