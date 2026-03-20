@@ -18,8 +18,7 @@ This is a Python-based Discord bot that returns detailed information about NBA p
   - All NBA games scheduled for today
   - Live score and game clock (e.g. `1:58 — Q3`)
   - Home and away team with wins/losses record
-  - Both team logos combined in a single image
-  - Filter by team tricode (e.g. `!jogos MIA`)
+  - Filter by team (e.g. `!jogos MIA`)
 
 
 ## How to Use
