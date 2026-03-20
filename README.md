@@ -1,4 +1,4 @@
-# 🤖 Clancy Discord Bot - NBA Info
+# Discord Bot - NBA Info
 
 This is a Python-based Discord bot that returns detailed information about NBA players and live game scores using the `nba_api`.
 
